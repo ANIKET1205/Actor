@@ -1,5 +1,6 @@
 body {
     background-color: rgb(0, 0, 0);
+    color: rgb(126, 235, 18);
 }
 
 div.start {
@@ -47,11 +48,6 @@ li a:hover:not(.active) {
     color: rgb(0, 0, 0);
 }
 
-h1.wel {
-    color: chartreuse;
-    font-size: 0.75cm;
-}
-
 #f {
     color: rgb(0, 0, 0);
     font-size: 0.75cm;
@@ -72,4 +68,22 @@ footer {
 
 .symbols {
     text-align: end;
+}
+
+.AB {
+    color: rgb(112, 194, 31);
+    font-size: 75px;
+}
+
+#head {
+    color: rgb(144, 202, 86);
+    font-size: 1cm;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.intro {
+    color: rgb(255, 255, 255);
+    font-size: .5cm;
+    flex-wrap: wrap;
 }

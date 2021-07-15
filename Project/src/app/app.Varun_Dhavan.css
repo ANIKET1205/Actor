@@ -12,7 +12,7 @@ div.start {
 
 #t {
     color: rgb(0, 0, 0);
-    font-size: 2cm;
+    font-size: 0.75cm;
     text-transform: uppercase;
     font-weight: bold;
     flex-wrap: wrap;
